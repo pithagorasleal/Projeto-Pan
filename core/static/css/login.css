@@ -1,0 +1,41 @@
+body{
+    background-color: #662b12;
+    position: relative;
+    height: 100vh;
+}
+
+.login-form{
+    border-radius: 5px;
+    max-width: 38%;
+    padding: 50px;
+    background-color: #e9ddbc;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+}
+
+.login-logo{
+    height: 60%;
+    width: 60%;
+    min-width: 100px;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+h1{
+    margin-bottom: 50px;
+    margin-top: 0;
+}
+
+.btn-sabadin{
+    background-color: #a52a2a;
+    color: white;
+    padding-left: auto;
+    padding-right: auto;
+}
+
+.btn-sabadin:hover{
+    background-color: #662b12;
+    color: rgb(235, 235, 235);
+}

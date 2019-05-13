@@ -1,0 +1,26 @@
+.container-fluid_step {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-top: 1%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container_step {
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 2%;
+    margin-right: 11%;
+    margin-left: 30%;
+}
+
+.btn-sabadin{
+    background-color: #a52a2a;
+    color: white;
+}
+
+.btn-sabadin:hover{
+    background-color: #662b12;
+    color: white;
+}
+
